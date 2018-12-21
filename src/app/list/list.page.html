@@ -1,0 +1,41 @@
+<ion-header no-border>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-img src="/assets/shapes.svg"></ion-img>
+  <ion-list>
+    <ion-item *ngFor="let floor of floors">
+      <div>
+        <h4>Piso {{floor.id}}</h4>
+          <ion-grid>
+            <ion-row>
+              <ion-col *ngFor="let store of floor.stores" size="4">
+                <ion-card>
+                    <ion-card-header>
+                        <ion-img src={{store.logo}}></ion-img>
+                      <ion-card-title class = "medium">{{store.name | uppercase}}</ion-card-title>
+                    </ion-card-header>
+                    <ion-card-content>
+                      <p class = "small" >{{store.description}}</p>
+                    </ion-card-content>
+                </ion-card>
+
+              </ion-col>
+            </ion-row>
+          </ion-grid>
+
+                
+      </div>
+    </ion-item>
+  </ion-list>
+  <!--
+    <div *ngIf="selectedItem" padding>
+      You navigated here from <b>{{selectedItem.title }}</b>
+    </div>
+  -->
+</ion-content>

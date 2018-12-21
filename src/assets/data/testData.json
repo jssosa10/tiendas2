@@ -1,0 +1,167 @@
+{
+    "pisos": [
+        {
+            "id": 1,
+            "stores" : [
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                }
+            ]
+
+        },
+        {
+            "id": 2,
+            "stores" : [
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                }
+            ]
+
+        },
+        {
+            "id": 3,
+            "stores" : [
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                },
+                {
+                    "name": "Carulla",
+                    "description": "Supermercado",
+                    "logo": "/assets/shapes.svg"
+                }
+            ]
+
+        }
+    ]
+}
